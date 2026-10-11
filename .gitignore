@@ -28,3 +28,6 @@ rustc-ice-*.txt
 
 # --- Personal Notes ---
 plan.md
+
+# --- DS Store ---
+.DS_Store
