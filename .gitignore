@@ -25,3 +25,6 @@ rustc-ice-*.txt
 # Never commit your private API keys or database secrets
 .env
 .env.*
+
+# --- Personal Notes ---
+plan.md
